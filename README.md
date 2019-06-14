@@ -7,6 +7,7 @@
 
 ## Techniques en Design – 5UX
 
+- Techniques créatives en UX
 - Domotique
 - Fondamentaux UX Design
 - Projet de fin d'année
