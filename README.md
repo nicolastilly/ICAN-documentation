@@ -3,8 +3,8 @@ Sujets, ressources et liens des cours Techniques en Design à l'ICAN
 
 ---
 
-4UX
+Techniques en Design – 4UX
 
-5UX
+Techniques en Design – 5UX
 
-Direction artistique en game design
+Direction artistique – Game Design
