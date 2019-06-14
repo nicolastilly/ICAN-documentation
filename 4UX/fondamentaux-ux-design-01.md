@@ -1,7 +1,7 @@
 # Fondamentaux de l'UX Design
 
 
-####Semaine 41 du 08 au 13 octobre 2018
+#### Semaine 41 du 08 au 13 octobre 2018
 
 Mercredi 10 octobre 2018 : 14h-17h15 (3h). Références UX/UI créatives + choix des idées 
 Vendredi 12 ocotbre 2018 : 9h45-13h / 14h-17h15 (6h)
@@ -59,7 +59,7 @@ Je travaille beaucoup avec des outils en ligne pour mes cours via divers sites d
 
 ---
 
-###Workshop : 9 idées (une par étudiant, à choisir aléatoirement)
+### Workshop : 9 idées (une par étudiant, à choisir aléatoirement)
 
 **1** Capter les données de santé provenant de vêtements connectés.
 
@@ -85,7 +85,7 @@ Je travaille beaucoup avec des outils en ligne pour mes cours via divers sites d
 
 ---
 
-###Le workshop consiste à produire un prototype pour chacune de ces idées.
+### Le workshop consiste à produire un prototype pour chacune de ces idées.
 
 Les outils sont : 
 
