@@ -20,23 +20,23 @@ Pour rappel :
 - Expérience entre l'usage (et la manipulation) d'un livre papier et d'un livre numérique :
   - [https://vimeo.com/50070534](https://vimeo.com/50070534)
 - Expérience entre plusieurs formats (et écrans) dans une installation vidéo: 
-  - https://www.thierryfournier.net/fenetre-augmentee/
-  - https://www.thierryfournier.net/fenetre-augmentee-04-collioure/
+  - [https://www.thierryfournier.net/fenetre-augmentee/](https://www.thierryfournier.net/fenetre-augmentee/)
+  - [https://www.thierryfournier.net/fenetre-augmentee-04-collioure/](https://www.thierryfournier.net/fenetre-augmentee-04-collioure/)
 - Expérience hypnotisante son et image. Manipulation de formes abstraites: 
-  - https://nadezdas.com/project/oko
+  - [https://nadezdas.com/project/oko](https://nadezdas.com/project/oko)
 - Expérience de jeu. Manipulation, émotion, interface : 
-  - http://www.milanogamefestival.com/collection/  
-  - http://vignettesga.me/
+  - [http://www.milanogamefestival.com/collection/](http://www.milanogamefestival.com/collection/  )  
+  - [http://vignettesga.me/](http://vignettesga.me/)
 - Entre jeu, jouet et prototype. Une expérience simple mais forte. Placer l'utilisateur dans une interaction « en boucle » parfois jusqu'à l'absurde : 
-  - https://playables.net/  
-  - https://projects.playables.net/
+  - [https://playables.net/](https://playables.net/)  
+  - [https://projects.playables.net/](https://projects.playables.net/)
 - Expériences de lecture et de navigation Web. Graphisme interactif et animation :
-  - https://martinwecke.de/
-  - http://www.choregraphy.co/
-  - http://www.studiofeixen.ch/
-  - https://material.io/design/motion/
-  - http://joshschaub.ch/
-  - http://www.haikusinteractifs.com/
+  - [https://martinwecke.de/](https://martinwecke.de/)
+  - [http://www.choregraphy.co/](http://www.choregraphy.co/)
+  - [http://www.studiofeixen.ch/](http://www.studiofeixen.ch/)
+  - [https://material.io/design/motion/](https://material.io/design/motion/)
+  - [http://joshschaub.ch/](http://joshschaub.ch/)
+  - [http://www.haikusinteractifs.com/](http://www.haikusinteractifs.com/)
 
 ------
 
@@ -45,17 +45,17 @@ Pour rappel :
 Je travaille beaucoup avec des outils en ligne pour mes cours via divers sites de ressources. Voici quelques liens qui vous permettront d'aller plus loin :
 
 - Un ensemble de liens assez complets : Web, programmation, histoire, outils, nouveaux médias... : 
-  - https://are.na/nicolas-tilly/channels
+  - [https://are.na/nicolas-tilly/channels](https://are.na/nicolas-tilly/channels)
 - Des exemples graphiques de programmation d'animations pour le Web : 
-  - https://codepen.io/collection/DoBexz/
+  - [https://codepen.io/collection/DoBexz/](https://codepen.io/collection/DoBexz/)
 
 - Des exemples graphiques de programmation de glisser-déposer pour construire des expérience de design interactif : 
-  - https://codepen.io/collection/AQdQpM/
+  - [https://codepen.io/collection/AQdQpM/](https://codepen.io/collection/AQdQpM/)
 
 - Histoire des interfaces graphiques : 
-  - https://graphism.fr/40-ans-dhistoire-des-interfaces-graphiques/
+  - [https://graphism.fr/40-ans-dhistoire-des-interfaces-graphiques/](https://graphism.fr/40-ans-dhistoire-des-interfaces-graphiques/)
 - Une ressource sur les rapports entre l'édition numérique et le Web : 
-  - http://nicolastilly.fr/ESAD/editionnumerique
+  - [http://nicolastilly.fr/ESAD/editionnumerique](http://nicolastilly.fr/ESAD/editionnumerique)
 
 ---
 
