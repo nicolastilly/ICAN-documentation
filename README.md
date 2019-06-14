@@ -1,5 +1,5 @@
 # ICAN-documentation
-Sujets, ressources et liens des cours « Techniques en Design » à l'ICAN de septembre 2018 à juillet 2019.
+Sujets, ressources et liens des cours « Techniques en Design » de Nicolas Tilly à l'ICAN de septembre 2018 à juillet 2019.
 
 ## Techniques en Design – 4UX
 
