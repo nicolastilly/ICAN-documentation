@@ -25,35 +25,35 @@ Une approche orientée sur la définition d'un livre numérique. Analyse de proj
 
 <u>Un plan en 4 parties :</u>
 
-**1 | Les différents formats de livres numériques
+1 | Les différents formats de livres numériques
 2 | Le web & l'édition numérique
 3 | Approche technique & langages de programmation
-4 | Ressources & références**
+4 | Ressources & références
 
-[&#8594; lien vers la documentation en ligne du cours ](http://docs.nicolastilly.fr/editionnumerique.html)
+[&#8594; lien vers la documentation en ligne du cours ](<http://isitcode.net/editionnumerique.html>)
 
 <u>Quelques livres sur le sujet :</u>
 
 - « L'édition au XXIe siècle, entre livres papier et numériques », Éditions Pyramid
 
-![](/Users/evbstudio/Documents/ICAN/04-s50/l-edition-au-xxie-siecle.jpg)
+![](../images/l-edition-au-xxie-siecle.jpg)
 
 - « Lire à l'écran », Éditions B42
 
-![](/Users/evbstudio/Documents/ICAN/04-s50/51bz8tMEV1L._SY310_BO1,204,203,200_.jpg)
+![](../images/51bz8tMEV1L._SY310_BO1,204,203,200_.jpg)
 
 - « Post-digital print, la mutation de l'édition depuis 1984 », Éditions B42
 
-![](/Users/evbstudio/Documents/ICAN/04-s50/1317014788.jpg)
+![](../images/1317014788.jpg)
 
 
 - « Version 0, notes sur le livre numérique », Écridil 2018
 
-![](/Users/evbstudio/Documents/ICAN/04-s50/87566.jpg)
+![](../images/87566.jpg)
 
 - « Sciences du Design 08, Éditions numériques » Éditions PUF
 
-![](/Users/evbstudio/Documents/ICAN/04-s50/sciences-design08.jpg)
+![](../images/sciences-design08.jpg)
 
 ---
 
