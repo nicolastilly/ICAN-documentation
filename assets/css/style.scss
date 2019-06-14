@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+
+@font-face {
+ font-family: "SpaceGrotesk Regular";
+ src: url("../webfonts/SpaceGrotesk-Regular.woff2") format("woff2"),
+        url("../webfonts/SpaceGrotesk-Regular.woff") format("woff");
+}
+
 body {
-	background-color: red;
+	font-family: "SpaceGrotesk Regular";
 }
