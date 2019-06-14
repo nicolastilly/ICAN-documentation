@@ -1,6 +1,6 @@
 ## Techniques en Design – 4UX
 
-- [Fondamentaux de l'UX Design](test.md)
+- [Fondamentaux de l'UX Design](/5UX/fondamentaux-ux-design-01.md)
 - Livre numérique
 - Fondamentaux de l'UX Design
 - Nouvelles cartographies
