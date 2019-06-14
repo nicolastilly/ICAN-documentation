@@ -18,7 +18,7 @@ Pour rappel :
 **UI** = **U**ser **I**nterface
 
 - Expérience entre l'usage (et la manipulation) d'un livre papier et d'un livre numérique :
-  - https://vimeo.com/50070534
+  - [https://vimeo.com/50070534](https://vimeo.com/50070534)
 - Expérience entre plusieurs formats (et écrans) dans une installation vidéo: 
   - https://www.thierryfournier.net/fenetre-augmentee/
   - https://www.thierryfournier.net/fenetre-augmentee-04-collioure/
