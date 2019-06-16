@@ -2,6 +2,11 @@
 
 Gestion du timing et suivi des projets.
 
+<u>Séances :</u>
+17 juin 2019
+19 juin 2019
+8 juillet 2019
+
 ---
 
 - Groupe 1 : Enzo, Amélie, **Florine, Coraline, Maxime**
@@ -26,4 +31,3 @@ Gestion du timing et suivi des projets.
 [https://threejs.org/](https://threejs.org/)
 
 [<https://jenseign.com/carte-scroll-data-css-et-javascript/>](https://jenseign.com/carte-scroll-data-css-et-javascript/)
-
