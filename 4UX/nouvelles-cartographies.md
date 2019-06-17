@@ -13,7 +13,7 @@ Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace
 
 <u>Références de départ :</u>
 
-*Terra Forma* - Éditions B42
+*Terra Forma - Manuel de cartographies potentielles* - Éditions B42
 
 ![](https://editions-b42.com/site-b42/uploads/2019/03/B42-110-TerraForma-1-1024x683.jpg)
 
