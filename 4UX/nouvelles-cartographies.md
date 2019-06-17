@@ -1,6 +1,6 @@
 # Nouvelles cartographies
 
-Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace non cartographiés)
+Gestion du timing et suivi des projets.
 
 <u>Séances :</u> 17 juin 2019 / 19 juin 2019 /8 juillet 2019
 
