@@ -9,7 +9,7 @@ Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace
 - <u>Groupe 1</u> : Enzo, Amélie, **Florine, Coraline, Maxime** : carte pour découvrir des produits régionaux.
 - <u>Groupe 2</u> : Janitta, Arthur, **Livia, Lliana, Mélanie** : carte de monuments et d'œuvres « oniriques » en réalité augmentée.
 - <u>Groupe 3</u> : Candice, Adrien, **Tifenn, Benoît, Camille** : carnet de voyage et nuancier. 
-- <u>Groupe 4</u> : Olivier, Théo, Julien, **Cyrielle, Lena** : carte de lieux et tendances liés aux interactions sur Instagram.
+- <u>Groupe 4</u> : Olivier, Théo, Julien, **Cyrielle, Lena** : carte de lieux et tendances liés aux nombres d'interactions sur Instagram.
 
 ### <u>Références de départ :</u>
 
