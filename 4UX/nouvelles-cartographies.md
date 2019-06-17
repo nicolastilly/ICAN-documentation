@@ -8,7 +8,7 @@ Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace
 
 - <u>Groupe 1</u> : Enzo, Amélie, **Florine, Coraline, Maxime** : Carte pour découvrir des produits régionaux.
 - <u>Groupe 2</u> : Janitta, Arthur, **Livia, Lliana, Mélanie** : carte de monuments et œuvres «oniriques» en réalité augmentée.
-- <u>Groupe 3</u> : Candice, Adrien, **Tifenn, Benoît, Camille**
+- <u>Groupe 3</u> : Candice, Adrien, **Tifenn, Benoît, Camille** : carnet de voyage et nuancier. 
 - <u>Groupe 4</u> : Olivier, Théo, Julien, **Cyrielle, Lena**
 
 <u>Références :</u>
