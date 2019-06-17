@@ -11,7 +11,7 @@ Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace
 - <u>Groupe 3</u> : Candice, Adrien, **Tifenn, Benoît, Camille** : carnet de voyage et nuancier. 
 - <u>Groupe 4</u> : Olivier, Théo, Julien, **Cyrielle, Lena** : carte de lieux et tendances liés aux interactions sur Instagram.
 
-<u>Références :</u>
+<u>Références de départ :</u>
 
 *Terra Forma* - Éditions B42
 
@@ -34,3 +34,14 @@ Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace
 [<https://rawgraphs.io/>](https://rawgraphs.io/)
 
 [<https://labs.rs/en/>](https://labs.rs/en/)
+
+<u>Boîte à outils basée sur les questionnements dans le projets :</u>
+
+API Instagram : [https://www.instagram.com/developer/](https://www.instagram.com/developer/)
+
+Dessins participatifs en ligne : [https://doodle-place.glitch.me/](https://doodle-place.glitch.me/)
+
+Weird type de Zach Lieberman : [<https://www.itsnicethat.com/articles/zach-lieberman-molmol-kuos-weird-type-digital-interactive-190318>](https://www.itsnicethat.com/articles/zach-lieberman-molmol-kuos-weird-type-digital-interactive-190318)
+
+SlapStick : [<http://buck.tv/#/work/project/17624/slapstick-app>](http://buck.tv/#/work/project/17624/slapstick-app)
+
