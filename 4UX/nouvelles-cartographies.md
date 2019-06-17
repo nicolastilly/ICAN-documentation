@@ -6,12 +6,12 @@ Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace
 
 ---
 
-- <u>Groupe 1</u> : Enzo, Amélie, **Florine, Coraline, Maxime** : Carte pour découvrir des produits régionaux.
-- <u>Groupe 2</u> : Janitta, Arthur, **Livia, Lliana, Mélanie** : carte de monuments et œuvres «oniriques» en réalité augmentée.
+- <u>Groupe 1</u> : Enzo, Amélie, **Florine, Coraline, Maxime** : carte pour découvrir des produits régionaux.
+- <u>Groupe 2</u> : Janitta, Arthur, **Livia, Lliana, Mélanie** : carte de monuments et d'œuvres « oniriques » en réalité augmentée.
 - <u>Groupe 3</u> : Candice, Adrien, **Tifenn, Benoît, Camille** : carnet de voyage et nuancier. 
 - <u>Groupe 4</u> : Olivier, Théo, Julien, **Cyrielle, Lena** : carte de lieux et tendances liés aux interactions sur Instagram.
 
-<u>Références de départ :</u>
+### <u>Références de départ :</u>
 
 *Terra Forma - Manuel de cartographies potentielles* - Éditions B42
 
@@ -35,7 +35,7 @@ Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace
 
 [<https://labs.rs/en/>](https://labs.rs/en/)
 
-<u>Boîte à outils basée sur les questionnements dans le projets :</u>
+### 17/06/2019 <u>Boîte à outils et références basés sur les questionnements dans le projets :</u>
 
 API Instagram : [https://www.instagram.com/developer/](https://www.instagram.com/developer/)
 
