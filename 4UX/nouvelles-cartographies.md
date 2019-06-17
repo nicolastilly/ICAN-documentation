@@ -1,13 +1,13 @@
 # Nouvelles cartographies
 
-Gestion du timing et suivi des projets. (La cartographie d'espace non cartographiés)
+Gestion du timing et suivi des projets. (Possibilité : la cartographie d'espace non cartographiés)
 
 <u>Séances :</u> 17 juin 2019 / 19 juin 2019 /8 juillet 2019
 
 ---
 
 - <u>Groupe 1</u> : Enzo, Amélie, **Florine, Coraline, Maxime** : Carte pour découvrir des produits régionaux.
-- <u>Groupe 2</u> : Janitta, Arthur, **Livia, Lliana, Mélanie**
+- <u>Groupe 2</u> : Janitta, Arthur, **Livia, Lliana, Mélanie** : carte de monuments et œuvres «oniriques» en réalité augmentée.
 - <u>Groupe 3</u> : Candice, Adrien, **Tifenn, Benoît, Camille**
 - <u>Groupe 4</u> : Olivier, Théo, Julien, **Cyrielle, Lena**
 
