@@ -6,7 +6,7 @@ Gestion du timing et suivi des projets. (La cartographie d'espace non cartograph
 
 ---
 
-- Groupe 1 : Enzo, Amélie, **Florine, Coraline, Maxime**
+- Groupe 1 : Enzo, Amélie, **Florine, Coraline, Maxime** : Carte pour découvrir des produits régionaux.
 - Groupe 2 : Janitta, Arthur, **Livia, Lliana, Mélanie**
 - Groupe 3 : Candice, Adrien, **Tifenn, Benoît, Camille**
 - Groupe 4 : Olivier, Théo, Julien, **Cyrielle, Lena**
