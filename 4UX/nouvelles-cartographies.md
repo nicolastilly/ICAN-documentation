@@ -67,6 +67,9 @@ Ryoji Ikeda, *The radar* :
 
 ![](http://magazine-b.com/en/wp-content/uploads/2018/08/instagram_small_05.png)
 
+*The Map as Art - Contemporary Artists Explore Cartography*
+
+![](http://www.papress.com/17pix/480covers/9781568989723.jpg)
 
 **Suivi et mise à jour des projets :**
 
