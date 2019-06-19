@@ -78,3 +78,5 @@ Ryoji Ikeda, *The radar* :
 - <u>Groupe 1 :</u> Application mobile d'annonces d'animaux perdus. Possibilités de donner des informations de localisation sur une carte (photos). Tech : app mobile / géolocalisation / OpenStreetMap / PandaSuite.
 - <u>Groupe 2 :</u> Application en réalité augmentée qui propose des parcours historiques dans une carte de Paris. Des points (monuments) sont à découvrir en RA avec des contenus historiques (dessins, animations). Géolocalisation. Tech : app mobile / réalité augmentée / motion
 - <u>Groupe 4 :</u> Carte sensible de Paris à partir de centres d'intérêts (musique, festivals, monuments...).  Représentation « libre » de la carte et des principes de navigation.  Tech : app ou site / navigation 
+
+Document de synthèse de la recherche UX du projet.
