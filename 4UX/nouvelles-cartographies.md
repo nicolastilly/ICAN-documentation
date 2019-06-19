@@ -60,3 +60,7 @@ Ryoji Ikeda, *The radar* :
 *Hyper Geography* - Jean Boîte Éditions
 
 ![](https://cdn.shopify.com/s/files/1/0048/1142/3778/products/04_4ff064fe-312d-4d87-bd31-0f0a7947e582_1568x1184.jpg?v=1554901885)
+
+*Band Balance No 68* - INSTAGRAM
+
+![](http://magazine-b.com/en/wp-content/uploads/2018/08/instagram_small_05.png)
