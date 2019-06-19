@@ -48,4 +48,15 @@ SlapStick : [<http://buck.tv/#/work/project/17624/slapstick-app>](http://buck.tv
 Carnet de voyage numérique : [<https://www.myatlas.com/>](https://www.myatlas.com/) / [<https://travelmap.net/>](https://travelmap.net/)
 
 Ryoji Ikeda, *The radar* :
-![](http://data.tomonaga.webfactional.com/static/ri_web/work/the_radar_shanghai_1.JPG) 
+![](http://data.tomonaga.webfactional.com/static/ri_web/work/the_radar_shanghai_1.JPG)
+
+---
+
+### 19/06/2019 :
+
+*Triste Tropique, Topographies of Sadness* - Jean Boîte Éditions
+![](https://cdn.shopify.com/s/files/1/0048/1142/3778/products/04_1941dced-6228-4a00-92de-761c60bef2d3_1568x1184.jpg?v=1553790441)
+
+*Hyper Geography* - Jean Boîte Éditions
+
+![](https://cdn.shopify.com/s/files/1/0048/1142/3778/products/04_4ff064fe-312d-4d87-bd31-0f0a7947e582_1568x1184.jpg?v=1554901885)
