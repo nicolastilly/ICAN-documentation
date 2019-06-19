@@ -35,6 +35,8 @@ Gestion du timing et suivi des projets.
 
 [<https://labs.rs/en/>](https://labs.rs/en/)
 
+---
+
 #### <u>Boîte à outils et références basés sur les questionnements dans le projets :</u>
 
 ## 17/06/2019 :
@@ -73,6 +75,6 @@ Ryoji Ikeda, *The radar* :
 
 **Suivi et mise à jour des projets :**
 
-- <u>Groupe 1 :</u> Application mobile d'annonces d'animaux perdus. Possibilités de donner des informations de localisation sur une carte (photos). Géolocalisation.
-- <u>Groupe 2 :</u> Application en réalité augmentée qui propose des parcours historiques dans une carte de Paris. Des points (monuments) sont à découvrir en RA avec des contenus historiques (dessins, animations). Géolocalisation.
-- <u>Groupe 4 :</u> Carte sensible de Paris à partir de centres d'intérêts (musique, festivals, monuments...).  Représentation « libre » de la carte et des principes de navigation.  
+- <u>Groupe 1 :</u> Application mobile d'annonces d'animaux perdus. Possibilités de donner des informations de localisation sur une carte (photos). Tech : app mobile / géolocalisation / PandaSuite.
+- <u>Groupe 2 :</u> Application en réalité augmentée qui propose des parcours historiques dans une carte de Paris. Des points (monuments) sont à découvrir en RA avec des contenus historiques (dessins, animations). Géolocalisation. Tech : app mobile / réalité augmentée / motion
+- <u>Groupe 4 :</u> Carte sensible de Paris à partir de centres d'intérêts (musique, festivals, monuments...).  Représentation « libre » de la carte et des principes de navigation.  Tech : app ou site / navigation 
