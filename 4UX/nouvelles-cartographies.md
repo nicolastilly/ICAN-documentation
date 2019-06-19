@@ -35,7 +35,9 @@ Gestion du timing et suivi des projets.
 
 [<https://labs.rs/en/>](https://labs.rs/en/)
 
-### 17/06/2019 <u>Boîte à outils et références basés sur les questionnements dans le projets :</u>
+#### <u>Boîte à outils et références basés sur les questionnements dans le projets :</u>
+
+### 17/06/2019
 
 API Instagram : [https://www.instagram.com/developer/](https://www.instagram.com/developer/)
 
