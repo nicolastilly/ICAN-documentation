@@ -54,7 +54,7 @@ Ryoji Ikeda, *The radar* :
 
 ---
 
-### 19/06/2019 :
+## 19/06/2019 :
 
 *Triste Tropique, Topographies of Sadness* - Jean Boîte Éditions
 ![](https://cdn.shopify.com/s/files/1/0048/1142/3778/products/04_1941dced-6228-4a00-92de-761c60bef2d3_1568x1184.jpg?v=1553790441)
@@ -66,3 +66,8 @@ Ryoji Ikeda, *The radar* :
 *Band Balance No 68* - INSTAGRAM
 
 ![](http://magazine-b.com/en/wp-content/uploads/2018/08/instagram_small_05.png)
+
+
+**Suivi et mise à jour des projets :**
+
+- <u>Groupe 1 :</u> Application mobile d'annonce d'animaux perdus. Possibilités de donner des informations de localisation sur une carte (photos).
