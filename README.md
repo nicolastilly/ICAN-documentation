@@ -7,11 +7,12 @@
 
 ## Techniques en Design – 5UX
 
-- Techniques créatives en UX
-- Domotique
-- Fondamentaux UX Design
-- Projet de fin d'année
+- [Techniques créatives en UX](5UX/techniques-creatives-en-ux.md)
+- [Domotique](5UX/Domotique.md)
+- [Fondamentaux UX Design](5UX/fondamentaux-ux-design.md)
+- [Projet de fin d'année](5UX/projet-fin-annee.md)
 
 ## Direction artistique – Game Design
 
 - Direction artistique - thématiques
+
