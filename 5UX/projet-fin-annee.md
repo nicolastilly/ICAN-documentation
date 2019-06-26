@@ -109,7 +109,7 @@ Conception du site
 
 [https://grid.layoutit.com/](https://grid.layoutit.com/)
 
-**Exemples interactifs vus en cours pour les protos :**
+**Exemples interactifs vus en cours pour les prototypes finaux :**
 
 [<https://codepen.io/nicolastilly/pen/MMEEZg>](https://codepen.io/nicolastilly/pen/MMEEZg)
 
