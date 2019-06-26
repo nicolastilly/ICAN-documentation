@@ -105,6 +105,10 @@ Conception du site
 **Intégration d'un objet 3D dans une page web avec Three.js**
 [<https://codepen.io/nicolastilly/pen/PvggXm?editors=0010>](https://codepen.io/nicolastilly/pen/PvggXm?editors=0010)
 
+**Grid generator :**
+
+[https://grid.layoutit.com/](https://grid.layoutit.com/)
+
 **Exemples interactifs vus en cours pour les protos :**
 
 [<https://codepen.io/nicolastilly/pen/MMEEZg>](https://codepen.io/nicolastilly/pen/MMEEZg)
