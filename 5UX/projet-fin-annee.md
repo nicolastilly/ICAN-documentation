@@ -99,10 +99,10 @@ Conception du site
 <u>Liens :</u>
 
 **Round, flat, designer-friendly** 
-**pseudo-3D engine for canvas & SVG**
+**pseudo-3D engine for canvas & SVG :**
 [https://zzz.dog/](https://zzz.dog/)
 
-**Intégration d'un objet 3D dans une page web avec Three.js**
+**Intégration d'un objet 3D dans une page web avec Three.js :**
 [<https://codepen.io/nicolastilly/pen/PvggXm?editors=0010>](https://codepen.io/nicolastilly/pen/PvggXm?editors=0010)
 
 **Grid generator :**
