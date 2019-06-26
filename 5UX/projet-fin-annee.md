@@ -96,8 +96,6 @@ Conception du site
 
 ## 26 juin
 
-<u>Liens :</u>
-
 **Round, flat, designer-friendly** 
 **pseudo-3D engine for canvas & SVG :**
 [https://zzz.dog/](https://zzz.dog/)
