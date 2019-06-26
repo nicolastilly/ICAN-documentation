@@ -91,3 +91,17 @@ Outils 3D pour imaginer l'espace du concept store
 Three.js pour le rendu dans la page Web
 Conception du site
 (Conception d'une app)
+
+---
+
+## 26 juin
+
+<u>Liens :</u>
+
+**Round, flat, designer-friendly** 
+**pseudo-3D engine for canvas & SVG**
+[https://zzz.dog/](https://zzz.dog/)
+
+**Intégration d'un objet 3D dans une page web avec Three.js**
+[<https://codepen.io/nicolastilly/pen/PvggXm?editors=0010>](https://codepen.io/nicolastilly/pen/PvggXm?editors=0010)
+
