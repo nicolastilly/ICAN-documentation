@@ -4,7 +4,7 @@
 
 - Approche prospective
 - 3 groupes
-- 3 axes de travail possible : site ou app pour accéder à une offre classique / Outil qui améliore une expérience touristique existante / Proposition numérique pour visiter un lieu sans s'y rendre.
+- 3 axes de travail possible : site ou app pour accéder à une offre classique / Outil qui améliore une expérience touristique existante / Proposition numérique pour concevoir une visite virtuelle d'un lieu.
 - Soutenance le 16 matin (présentation + dossier)
 
 ---
@@ -13,15 +13,15 @@
 
 Logiciles utilisés : Figma et inVision
 
-**Groupe 1** : Tourisme responsable. Visiter un lieu en prenant en compte des paramètres environmentales et écologiques via un site Web.
+**<u>Groupe 1</u>** : Tourisme responsable. Visiter un lieu en prenant en compte des paramètres environmentales et écologiques via un site Web.
 
 Fonctionnalités :
 
-**Groupe 2** : Découvrir des us et coutumes d'un pays (avant de partir) via une application mobile. Préparer un voyage avec des informations importantes à savoir pour voyager dans un pays (langues par exemple).
+**<u>Groupe 2</u>** : Découvrir des us et coutumes d'un pays (avant de partir) via une application mobile. Préparer un voyage avec des informations importantes à savoir pour voyager dans un pays (langues par exemple).
 
 Fonctionnalités :
 
-**Groupe 3** : Faire un voyage touristique **<u>et</u>** humanitaire. On peut participer à une mission (urgente) dans un pays en s'inscrivant sur un site Web. Informations disponibles sur les missions.
+**<u>Groupe 3</u>** : Faire un voyage touristique **<u>et</u>** humanitaire. On peut participer à une mission (urgente) dans un pays en s'inscrivant sur un site Web. Informations disponibles sur les missions.
 
 Fonctionnalités :
 
