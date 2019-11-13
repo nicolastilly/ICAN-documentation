@@ -9,6 +9,10 @@
 
 ## Techniques en Design – 5UX
 
+2019-2020
+
+- [Techniques en design - Tourisme et numérique](4UX/Tourisme-et-numerique-2019)
+
 2018-2019
 
 - [Techniques créatives en UX](5UX/techniques-creatives-en-ux.md)
