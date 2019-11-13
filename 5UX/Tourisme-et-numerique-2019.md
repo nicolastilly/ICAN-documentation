@@ -9,7 +9,7 @@
 
 
 
-### Projets des groupes
+### Projets
 
 **Groupe 1** : Tourisme responsable. Visiter un lieu en prenant en compte des paramètres environmentales et écologiques via un site Web.
 
