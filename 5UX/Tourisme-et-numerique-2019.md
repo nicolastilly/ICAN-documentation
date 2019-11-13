@@ -14,3 +14,4 @@
 **Groupe 1** : Tourisme responsable. Visiter un lieu en prenant en compte des paramètres environmentales et écologiques via un site Web.
 
 **Groupe 2** : Découvrir des us et coutumes d'un pays (avant de partir) via une application mobile. Préparer un voyage avec des informations importantes à savoir pour voyager dans un pays (langues par exemple).
+
