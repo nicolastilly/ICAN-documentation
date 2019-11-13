@@ -23,4 +23,5 @@ Groupe 3 :
 
 - [Data visualisation et photographie](<https://uxdesign.cc/data-visualization-photography-as-a-design-lens-97a56ebbfd14>)
 - [Long format interactif du New York Times](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html)
-- [Système interactif avant/après pour visualiser une photographie](https://www.re.photos/fr/)
+- [Fonctionnalité interactive "avant/après" pour visualiser une photographie](https://www.re.photos/fr/)
+
