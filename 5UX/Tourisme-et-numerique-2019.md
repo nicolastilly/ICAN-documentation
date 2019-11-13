@@ -13,7 +13,7 @@
 
 Logiciles utilisés : Figma et inVision
 
-**<u>Groupe 1</u>** : Projet DORA<br>
+### Groupe 1 : Projet DORA<br>
 Agence de voyage proposant un tourisme responsable. Visiter un lieu en prenant en compte des paramètres environmentales et écologiques via un site Web.
 
 Fonctionnalités :
