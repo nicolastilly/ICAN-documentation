@@ -9,7 +9,7 @@
 
 ---
 
-## Projets (axe expérientiel retenu)
+# Projets (axe expérientiel retenu)
 
 Logiciles utilisés : Figma et inVision
 
