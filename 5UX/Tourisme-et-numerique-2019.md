@@ -51,4 +51,5 @@ Fonctionnalités :
 - [Fonctionnalité interactive "avant/après" pour visualiser une photographie](https://www.re.photos/fr/)
 - [Scrollytelling](https://pudding.cool/process/introducing-scrollama/)
 - [Formulaire](https://www.typeform.com/)
+- [Des exemples de sites qui utilisent des formulaires](https://www.awwwards.com/websites/forms-and-input/)
 - [Barre de progression lors du défilement](https://www.w3schools.com/howto/howto_js_scroll_indicator.asp)
