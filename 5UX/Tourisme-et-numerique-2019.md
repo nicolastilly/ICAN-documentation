@@ -39,7 +39,7 @@ Fonctionnalités :
 - Filtres et critères
 - Zoom dans une carte
 - Un tchat
-- Mise en page «longform» de contenus textes, images, vidéos (qui présente une mission en détail)
+- Mise en page « longform » de contenus textes, images, vidéos (qui présente une mission en détail)
 - Réservation et paiement de billets de transport
 
 ---
@@ -48,7 +48,7 @@ Fonctionnalités :
 
 - [Data visualisation et photographie](<https://uxdesign.cc/data-visualization-photography-as-a-design-lens-97a56ebbfd14>)
 - [Long format interactif du New York Times](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html)
-- [Fonctionnalité interactive "avant/après" pour visualiser une photographie](https://www.re.photos/fr/)
+- [Fonctionnalité interactive « avant/après » pour visualiser une photographie](https://www.re.photos/fr/)
 - [Scrollytelling](https://pudding.cool/process/introducing-scrollama/)
 - [Formulaire](https://www.typeform.com/)
 - [Des exemples de sites qui utilisent des formulaires](https://www.awwwards.com/websites/forms-and-input/)
