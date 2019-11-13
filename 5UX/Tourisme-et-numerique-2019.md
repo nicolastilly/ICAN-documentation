@@ -36,7 +36,7 @@ Fonctionnalités :
 
 Fonctionnalités :
 
-- Réservation
+- 
 
 ---
 
@@ -46,3 +46,5 @@ Fonctionnalités :
 - [Long format interactif du New York Times](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html)
 - [Fonctionnalité interactive "avant/après" pour visualiser une photographie](https://www.re.photos/fr/)
 - [Scrollytelling](https://pudding.cool/process/introducing-scrollama/)
+- [Formulaire](https://www.typeform.com/)
+- [Barre de progression lors du défilement](https://www.w3schools.com/howto/howto_js_scroll_indicator.asp)
