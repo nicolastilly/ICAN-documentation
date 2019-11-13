@@ -39,7 +39,7 @@ Fonctionnalités :
 
 - Filtres et critères
 - Zoom dans une carte
-- Un tchat
+- Un chat
 - Mise en page « longform » de contenus textes, images, vidéos (qui présente une mission en détail)
 - Réservation et paiement de billets de transport
 
