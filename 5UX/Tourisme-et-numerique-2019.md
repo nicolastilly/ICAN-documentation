@@ -7,7 +7,7 @@
 - 3 axes de travail possible : site ou app pour accéder à une offre classique / Outil qui améliore une expérience touristique existante / Proposition numérique pour visiter un lieu sans s'y rendre.
 - Rendu le 16 matin (présentation + dossier)
 
-
+---
 
 ## Projets
 
@@ -17,9 +17,10 @@
 
 **Groupe 3** : Faire un voyage touristique et humanitaire. On peut participer à une mission (urgente) dans un pays en s'inscrivant sur un site Web. Informations disponibles sur les missions.
 
-## Références
+## Références tech & design
 
 Groupe 3 :
 
-- [Data visualisation et photographie.](<https://uxdesign.cc/data-visualization-photography-as-a-design-lens-97a56ebbfd14>)
-- [Long format interactif du New York](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html)
+- [Data visualisation et photographie](<https://uxdesign.cc/data-visualization-photography-as-a-design-lens-97a56ebbfd14>)
+- [Long format interactif du New York Times](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html)
+- [Système interactif avant/après pour visualiser une photographie](https://www.re.photos/fr/)
