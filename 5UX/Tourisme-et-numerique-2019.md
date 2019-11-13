@@ -9,6 +9,8 @@
 
 
 
+### Projets des groupes
+
 **Groupe 1** : tourisme responsable. Visiter un lieu en prenant en compte des paramètres environmentales et écologiques via un site Web.
 
 **Groupe 2** : Découvrir des us et coutumes d'un pays avant de partir. Faire un voyage avec des informations via une application mobile.
