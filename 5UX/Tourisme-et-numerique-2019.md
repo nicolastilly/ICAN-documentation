@@ -5,7 +5,7 @@
 - Approche prospective
 - 3 groupes
 - 3 axes de travail possible : site ou app pour accéder à une offre classique / Outil qui améliore une expérience touristique existante / Proposition numérique pour concevoir une visite virtuelle d'un lieu.
-- Soutenance le 16 matin (présentation + dossier)
+- Soutenance le 16/11 matin (présentation + dossier)
 
 ---
 
@@ -17,6 +17,10 @@ Logiciles utilisés : Figma et inVision
 
 Fonctionnalités :
 
+- Questionnaires et filtres
+- Lecture du parcours proposé (résultat du questionnaire). Détails, histoire et parcours du voyage. Photographies, textes, vidéos consultables en scrollant dans la page.
+- Compte utilisateur
+
 **<u>Groupe 2</u>** : Découvrir des us et coutumes d'un pays (avant de partir) via une application mobile. Préparer un voyage avec des informations importantes à savoir pour voyager dans un pays.
 
 Fonctionnalités :
@@ -24,6 +28,8 @@ Fonctionnalités :
 **<u>Groupe 3</u>** : Faire un voyage touristique **<u>et</u>** humanitaire. On peut participer à une mission (urgente) dans un pays en s'inscrivant sur un site Web. Informations disponibles sur les missions.
 
 Fonctionnalités :
+
+- Réservation
 
 ---
 
