@@ -13,7 +13,8 @@
 
 Logiciles utilisés : Figma et inVision
 
-**<u>Groupe 1</u>** : Agence de voyage proposant un tourisme responsable. Visiter un lieu en prenant en compte des paramètres environmentales et écologiques via un site Web.
+**<u>Groupe 1</u>** : Projet DORA
+Agence de voyage proposant un tourisme responsable. Visiter un lieu en prenant en compte des paramètres environmentales et écologiques via un site Web.
 
 Fonctionnalités :
 
@@ -21,7 +22,8 @@ Fonctionnalités :
 - Lecture du parcours proposé (résultat du questionnaire). Détails, histoire et parcours du voyage. Photographies, textes, vidéos consultables en scrollant dans la page.
 - Compte utilisateur
 
-**<u>Groupe 2</u>** : Découvrir des us et coutumes d'un pays (avant de partir) via une application mobile. Préparer un voyage avec des informations importantes à savoir pour voyager dans un pays.
+**<u>Groupe 2</u>** : Projet MANNERS
+Découvrir des us et coutumes d'un pays (avant de partir) via une application mobile. Préparer un voyage avec des informations importantes à savoir pour voyager dans un pays.
 
 Fonctionnalités :
 
