@@ -27,6 +27,11 @@ Découvrir des us et coutumes d'un pays (avant de partir) via une application mo
 
 Fonctionnalités :
 
+- Champs de recherche pays + animation (page accueil)
+- Une progression dans la lecture des contenus
+- Divers médias à présenter : texte, article, vidéo, images...
+- Un compte utilisateur / les favoris
+
 **<u>Groupe 3</u>** : Faire un voyage touristique **<u>et</u>** humanitaire. On peut participer à une mission (urgente) dans un pays en s'inscrivant sur un site Web. Informations disponibles sur les missions.
 
 Fonctionnalités :
