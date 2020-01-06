@@ -12,6 +12,7 @@
 2019-2020
 
 - [Techniques en design - Tourisme et numérique](5UX/Tourisme-et-numerique-2019)
+- [Techniques en design - Domotique](5UX/Domotique 2019-2020)
 
 2018-2019
 
