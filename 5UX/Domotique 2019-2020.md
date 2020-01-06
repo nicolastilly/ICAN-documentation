@@ -16,7 +16,7 @@ Devices possibles :
 
 Possibilité de partager des informations sur l'utilisation des devices vers l'administrateur.
 
-Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des des réglages comme le volume, l'allumage et le choix des musiques en fonction des différents droits accordés dans leurs profils.
+Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des réglages comme le volume, l'allumage et le choix des musiques en fonction des différents droits accordés dans leurs profils.
 
 ---
 
