@@ -23,3 +23,7 @@ Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des 
 Outils prototypage :
 
 - Figma
+
+Références :
+
+- [HomeKit](https://www.apple.com/fr/ios/home/)
