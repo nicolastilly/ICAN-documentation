@@ -22,7 +22,7 @@ Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des 
 
 Outils prototypage :
 
-- Figma
+- [Figma](https://www.figma.com/)
 
 Références :
 
