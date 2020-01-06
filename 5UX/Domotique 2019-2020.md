@@ -2,11 +2,11 @@
 
 ---
 
-Hub des objets connectés. Partager l'éco système avec d'autres utilisateurs.
+Un hub des objets connectés. Partager un éco-système connecté avec d'autres utilisateurs.
 
 L'administrateur permet des accès aux utilisateurs en fonction des profils (famille, invités...).
 
-Partage :
+Devices :
 - code wifi
 - enceinte connectée
 - TV
