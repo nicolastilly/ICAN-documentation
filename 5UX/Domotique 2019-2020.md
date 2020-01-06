@@ -2,11 +2,11 @@
 
 ---
 
-Un hub des objets connectés. Partager un éco-système connecté avec d'autres utilisateurs.
+Projet : un hub des objets connectés dans la maison. L'appli permet de partager un éco-système connecté avec d'autres utilisateurs.
 
-L'administrateur permet des accès aux utilisateurs en fonction des profils (famille, invités...).
+L'administrateur donne des accès à des utilisateurs en fonction de différents profils (famille, invités, locataire...).
 
-Devices :
+Devices possibles :
 - code wifi
 - enceinte connectée
 - TV
@@ -14,6 +14,6 @@ Devices :
 - Prise connectée
 - électroménager
 
-Partage d'informations des utilisations des devices.
+Possibilité de partager des informations sur l'utilisation des devices vers l'administrateur.
 
-Exemple de l'enceinte : des réglages son comme le volume, l'allumage et le choix des musiques.
+Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des des réglages comme le volume, l'allumage et le choix des musiques en fonction des différents droits accordés dans leurs profils.
