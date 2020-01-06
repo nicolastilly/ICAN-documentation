@@ -20,9 +20,10 @@ Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des 
 
 ---
 
-Outils prototypage :
+Outils tech :
 
 - [Figma](https://www.figma.com/)
+- [La communication en champ proche NFC](<https://fr.wikipedia.org/wiki/Communication_en_champ_proche>)
 
 Références :
 
