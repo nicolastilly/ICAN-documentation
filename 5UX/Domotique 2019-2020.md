@@ -53,6 +53,7 @@ Outils tech :
 - [Bootstrap](https://getbootstrap.com/)
 - [Components Bootstrap](https://getbootstrap.com/docs/4.4/components/alerts/)
 - [Material Design iOS](https://material.io/collections/developer-tutorials/#ios-swift)
+- [Components guidelines](https://material.io/components/)
 
 Références :
 
