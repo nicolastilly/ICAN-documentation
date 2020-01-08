@@ -20,7 +20,11 @@ Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des 
 
 **Avancement du projet du 8/01/2020** :
 
+Détail des écrans et du scénario. Page d'accueil et déroulé de la page de gestion des profils (ajouter un profil, assigner des fonctionnalités et lui relier un ou des tags).
+
 ![](../images/domotique01.jpg)
+
+## Pour l'application iPad
 
 **Contenus :**
 
@@ -57,4 +61,6 @@ Outils tech possibles :
 
 Références :
 
-- [HomeKit](https://www.apple.com/fr/ios/home/)
+- [HomeKit](https://www.apple.com/fr/ios/home/) 
+- Slack
+- Discord
