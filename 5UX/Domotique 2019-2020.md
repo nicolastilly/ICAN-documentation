@@ -22,6 +22,29 @@ Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des 
 
 ![](../images/domotique01.jpg)
 
+**Contenus :**
+
+- Layout Grid
+- Images
+
+**Components :**
+
+- Badge (pour les tags)
+- Buttons
+- Card
+- List
+- Nav
+- Tabs
+- Date picker
+- Toggle
+- Modal
+- Slider
+- Round slider
+
+
+
+
+
 ---
 
 Outils tech :
@@ -31,6 +54,7 @@ Outils tech :
 - [Material Angular js](https://material.angularjs.org/latest/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Components Bootstrap](https://getbootstrap.com/docs/4.4/components/alerts/)
+- [Material Design iOS](https://material.io/collections/developer-tutorials/#ios-swift)
 
 Références :
 
