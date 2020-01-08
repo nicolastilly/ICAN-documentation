@@ -18,6 +18,10 @@ Possibilité de partager des informations sur l'utilisation des devices vers l'a
 
 Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des réglages comme le volume, l'allumage et le choix des musiques en fonction des différents droits accordés dans leurs profils.
 
+**Avancement du projet du 8/01/2020** :
+
+![](../images/domotique01.jpg)
+
 ---
 
 Outils tech :
@@ -26,6 +30,7 @@ Outils tech :
 - [La communication en champ proche NFC](<https://fr.wikipedia.org/wiki/Communication_en_champ_proche>)
 - [Material Angular js](https://material.angularjs.org/latest/)
 - [Bootstrap](https://getbootstrap.com/)
+- [Components Bootstrap](https://getbootstrap.com/docs/4.4/components/alerts/)
 
 Références :
 
