@@ -43,10 +43,6 @@ Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des 
 - Search bar
 - Modal
 
-
-
-
-
 ---
 
 Outils tech :
