@@ -40,6 +40,8 @@ Exemple de l'enceinte connectée : les utilisateurs peuvent avoir accès à des 
 - Modal
 - Slider
 - Round slider
+- Search bar
+- Modal
 
 
 
