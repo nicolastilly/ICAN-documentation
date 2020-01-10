@@ -50,6 +50,14 @@ Détail des écrans et du scénario. Page d'accueil et déroulé de la page de g
 - Modal
 - Forms
 
+**To do** :
+
+- Animation UI
+- Flow chart (NFC, ajout classique, QR Code)
+- Partie profil (gestion, ajout et tags)
+- Nav circulaire (event, profil, tag, objet)
+- Nav/switch pièces de la maison
+
 ---
 
 Techniques en design :
