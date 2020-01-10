@@ -52,7 +52,7 @@ Détail des écrans et du scénario. Page d'accueil et déroulé de la page de g
 
 ---
 
-**To do** :
+**To do (10/01/20)** :
 
 - Animation UI
 - Flow chart (NFC, ajout classique, QR Code)
