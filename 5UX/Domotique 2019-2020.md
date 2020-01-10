@@ -64,7 +64,7 @@ Détail des écrans et du scénario. Page d'accueil et déroulé de la page de g
 
 Techniques en design :
 
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/) + [Bravo Studio](https://www.bravostudio.app/)
 - [La communication en champ proche NFC](<https://fr.wikipedia.org/wiki/Communication_en_champ_proche>)
 - [Material Angular js](https://material.angularjs.org/latest/)
 - [Bootstrap](https://getbootstrap.com/)
