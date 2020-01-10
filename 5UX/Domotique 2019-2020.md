@@ -52,7 +52,7 @@ Détail des écrans et du scénario. Page d'accueil et déroulé de la page de g
 
 ---
 
-Outils tech possibles :
+Techniques en design :
 
 - [Figma](https://www.figma.com/)
 - [La communication en champ proche NFC](<https://fr.wikipedia.org/wiki/Communication_en_champ_proche>)
