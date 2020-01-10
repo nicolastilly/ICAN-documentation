@@ -56,8 +56,8 @@ Détail des écrans et du scénario. Page d'accueil et déroulé de la page de g
 
 - Animation UI
 - Flow chart (NFC, ajout classique, QR Code)
-- Partie profil (gestion, ajout et tags)
-- Nav circulaire (event, profil, tag, objet)
+- Partie profils (gestion, ajout et tags)
+- Nav circulaire d'ajout (event, profil, tag, objet)
 - Nav/switch des pièces de la maison
 
 ---
