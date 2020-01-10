@@ -48,6 +48,7 @@ Détail des écrans et du scénario. Page d'accueil et déroulé de la page de g
 - Round slider
 - Search bar
 - Modal
+- Forms
 
 ---
 
