@@ -23,7 +23,7 @@
 
 ## Direction artistique – Game Design
 
-2020
+Janvier-avril 2020
 
-- Direction artistique - thématiques
+- [Direction Artistique](GD/DA-2020.md)
 
