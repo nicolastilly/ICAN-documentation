@@ -23,7 +23,7 @@
 
 ## Direction artistique – Game Design
 
-2018-2019
+2020
 
 - Direction artistique - thématiques
 
