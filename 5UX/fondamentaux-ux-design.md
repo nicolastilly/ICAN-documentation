@@ -1,7 +1,6 @@
 # Fondamentaux UX Design
 
 5 UX - Semestre 2
-3 avril 2019
 
 ---
 
@@ -38,17 +37,6 @@ Travail terminé à la fin de la journée - Application mobile qui présente les
 - Couleur 
 - Mot/texte (chiffre, texte qui défile, date)
 - Bip/son
-
-**Les objets :**
-
-- **Elise** : 1 paille - Amusement et découverte
-  temperature/refroidire/melanger/filtrer/aspirer/décoration
-- **Sarah** : 1 micro ondes - Divertissement
-- **Nizar** : 1 bocal - Plaisir
-- **Madison** : 1 décapsuleur - Social
-- **Sebastien** : Playstation 1 - information
-  info jeux/mot de passe
-- **Eyon** : Lentille extérieure - bien-être
 
 ---
 
