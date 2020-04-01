@@ -4,7 +4,7 @@
 
 ---
 
-**Liens & références :**
+## Liens & références :
 
 - [Le design des interfaces numériques en 170 mots-clés](https://www.eyrolles.com/Informatique/Livre/le-design-des-interfaces-numeriques-en-170-mots-cles-9782100585274/)
 
@@ -16,10 +16,8 @@
 
 - [Substitute phone](https://klemensschillinger.com/projects/substitute-phone)
 
+- [NORMALS](http://normalfutu.re/)
+
 - [Screens of the future](https://universaleverything.com/projects/screens-of-the-future/)
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/223108695?color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-
-- [NORMALS](http://normalfutu.re/)
