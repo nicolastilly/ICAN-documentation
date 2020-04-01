@@ -1,12 +1,12 @@
 # No interface - Design fiction
 
-<iframe width="100%" height="500" src="no-interface.pdf#toolbar=0"></iframe>
+<iframe width="100%" height="400" src="no-interface.pdf#toolbar=0"></iframe>
 
 ---
 
 **Liens & références :**
 
-[« Le design des interfaces numériques en 170 mots-clés »](https://www.eyrolles.com/Informatique/Livre/le-design-des-interfaces-numeriques-en-170-mots-cles-9782100585274/)
+[Le design des interfaces numériques en 170 mots-clés](https://www.eyrolles.com/Informatique/Livre/le-design-des-interfaces-numeriques-en-170-mots-cles-9782100585274/)
 
 [Are.na - interfaces](https://www.are.na/nicolas-tilly/interfaces-o4ycuz-pqsm)
 
