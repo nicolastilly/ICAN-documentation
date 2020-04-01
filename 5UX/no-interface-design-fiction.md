@@ -33,6 +33,6 @@
 
 ## Les projets
 
-Un arbre
-Un médicament
-Un verre
+- Un arbre
+- Un médicament
+- Un verre
