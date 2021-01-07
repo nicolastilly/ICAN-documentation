@@ -27,6 +27,8 @@ Créateur des interfaces présentes dans le film :
 
 ![](http://championdontstop.com/site3/clients/Her/Images/Image-7.jpg)
 
+Quelques autres références :
+
 [Hackaday.io](https://hackaday.io/projects?tag=home%20automation)
 
 [Zelda Ocarina Controlled Home Automation](https://www.youtube.com/watch?v=glZnkpIDWSE)
