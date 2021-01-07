@@ -7,9 +7,7 @@
 
 ## Domotique
 
-Commencer avec une approche large de la thématique : robotique, science-fiction, graphisme, aide à l'humain, le foyer aujourd'hui, objets connectés, low tech et high tech, l'existant et la fiction...
 
-**Définition :**
 « la domotique est l’ensemble des objets connectés rendant la maison elle-même connectée, ou communicante. On parle même parfois de maison intelligente, ces différents objets connectés permettant à la maison de réagir automatiquement en fonction d’événements (fermer les volets en cas tempête, passer en mode éco du chauffage lors d’une absence imprévue…). »
 [Le guide de la maison et des objets connectés](https://www.eyrolles.com/Chapitres/9782212142112/9782212142112.pdf)
 
@@ -17,11 +15,9 @@ Commencer avec une approche large de la thématique : robotique, science-fiction
 
 ---
 
-### Un exemple d'interface dans le film «Her» de Spike Jonze.
+**Commencer avec une approche large de la thématique** : robotique, science-fiction, graphisme, aide à l'humain, le foyer aujourd'hui, les objets connectés, low tech et high tech, l'existant et la fiction...
 
-Une référence possible pour la thématique.
-
-Créateur de l'animation : David O'Reilly
+Un exemple d'interface dans le film «Her» de Spike Jonze (Créateur de l'animation : David O'Reilly).
 
 <iframe src="https://player.vimeo.com/video/97740427?byline=0&portrait=0" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -30,6 +26,12 @@ Créateur des interfaces présentes dans le film :
 [https://gizmodo.com/an-interview-with-geoff-mcfetridge-on-the-interfaces-fr-1526237090](https://gizmodo.com/an-interview-with-geoff-mcfetridge-on-the-interfaces-fr-1526237090)
 
 ![](http://championdontstop.com/site3/clients/Her/Images/Image-7.jpg)
+
+[Hackaday.io](https://hackaday.io/projects?tag=home%20automation)
+
+[Zelda Ocarina Controlled Home Automation](https://www.youtube.com/watch?v=glZnkpIDWSE)
+
+[Jarvis](https://www.facebook.com/zuck/videos/10103351034741311/)
 
 ---
 
