@@ -68,6 +68,7 @@ Liste des devices possibles :
 - thermostat
 - Prise connectée
 - électroménager
+- ...
 
 Pour la conception (éventuelle) d'une application :
 
