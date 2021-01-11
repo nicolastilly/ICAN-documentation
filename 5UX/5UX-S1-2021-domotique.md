@@ -6,7 +6,6 @@ Janvier - mars 1er trimestre 2021
 
 ## Domotique
 
-
 « la domotique est l’ensemble des objets connectés rendant la maison elle-même connectée, ou communicante. On parle même parfois de maison intelligente, ces différents objets connectés permettant à la maison de réagir automatiquement en fonction d’événements (fermer les volets en cas tempête, passer en mode éco du chauffage lors d’une absence imprévue…). »
 [Le guide de la maison et des objets connectés](https://www.eyrolles.com/Chapitres/9782212142112/9782212142112.pdf)
 
@@ -36,6 +35,12 @@ Quelques autres références :
 [Jarvis](https://www.facebook.com/zuck/videos/10103351034741311/)
 
 [ThisAbles](https://thisables.com/en/)
+
+[40 Creative Interior Design Objects](http://neatdesigns.net/impossible-is-nothing-40-creative-interior-design-objects/)
+
+[Wired tech gear list](https://www.wired.com/category/gear/)
+
+[Framed Mono X7](https://mono.frm.fm/en/shop/)
 
 À vous de trouver quelques références qui vous semblent pertinentes/intéressantes dans le domaine.
 
