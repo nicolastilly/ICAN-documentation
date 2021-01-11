@@ -1,4 +1,4 @@
-# 5UX - S1 Conception et prototypage
+# 5UX - S1 Nouvelles esthétiques / Conception et prototypage
 
 Janvier - mars 1er trimestre 2021
 
