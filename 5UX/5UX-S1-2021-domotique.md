@@ -9,6 +9,16 @@ Janvier - mars 1er trimestre 2021
 « la domotique est l’ensemble des objets connectés rendant la maison elle-même connectée, ou communicante. On parle même parfois de maison intelligente, ces différents objets connectés permettant à la maison de réagir automatiquement en fonction d’événements (fermer les volets en cas tempête, passer en mode éco du chauffage lors d’une absence imprévue…). »
 [Le guide de la maison et des objets connectés](https://www.eyrolles.com/Chapitres/9782212142112/9782212142112.pdf)
 
+## Les domaines de la domotique
+
+- le pilotage des appareils « électrodomestiques »
+- la gestion de l'énergie
+- la sécurité des biens et des personnes 
+- le « confort acoustique »
+- la compensation des situations de handicap
+
+Source : [Wikipedia](https://fr.wikipedia.org/wiki/Domotique#Les_domaines_de_la_domotique)
+
 <u>Remarque :</u> L'objet connecté est souvent perçu comme futile et jetable. Il faudra prendre en compte les enjeux de cette remarque dans la thématique.
 
 ---
