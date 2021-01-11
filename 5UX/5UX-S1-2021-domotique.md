@@ -14,7 +14,9 @@ Janvier - mars 1er trimestre 2021
 
 ---
 
-**1 - Commencer avec une approche large de la thématique** : robotique, science-fiction, graphisme, aide à l'humain, le foyer aujourd'hui, les objets connectés, low tech et high tech, l'existant et la fiction...
+### 1 - Commencer avec une approche large de la thématique
+
+robotique, science-fiction, graphisme, aide à l'humain, le foyer aujourd'hui, les objets connectés, low tech et high tech, l'existant et la fiction...
 
 Un exemple d'interface dans le film «Her» de Spike Jonze (Créateur de l'animation : David O'Reilly).
 
@@ -35,9 +37,11 @@ Quelques autres références :
 
 [ThisAbles](https://thisables.com/en/)
 
+À vous de trouver quelques références qui vous semblent pertinentes/intéressantes dans le domaine.
+
 ---
 
-**2 - Ensuite, il s'agira de trouver les problématique non couvertes par la domotique aujourd'hui.**
+### 2 - Ensuite, il s'agira de trouver les problématiques non couvertes dans la domotique aujourd'hui.
 
 ---
 
