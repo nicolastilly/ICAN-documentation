@@ -48,6 +48,12 @@ Quelques autres références :
 
 ### 2 - Ensuite, il s'agira de trouver les problématiques non couvertes dans la domotique aujourd'hui.
 
+Pour cela il faut commencer par la réalisation de moodboards sur la question de l'intérieur, la maison, les objets... :
+- Ambiance (maison, intérieur, espace de travail...)
+- Objets de tous types (de la maison)
+- Images de références films, sites des marques...
+- Éléments graphiques, interfaces, applications...
+
 ---
 
 ### Quelques aspects techniques 
