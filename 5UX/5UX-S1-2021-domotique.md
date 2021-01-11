@@ -1,7 +1,6 @@
 # 5UX - S1 Conception et prototypage
 
-- 08/01/2021 - 4h30
-- 11/01/2021 - 6h
+Janvier - mars 1er trimestre 2021
 
 ---
 
