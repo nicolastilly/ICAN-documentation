@@ -42,6 +42,10 @@ Quelques autres références :
 
 [Framed Mono X7](https://mono.frm.fm/en/shop/)
 
+[La maison connectée de Jacques Tati à Big Brother](https://www.lemonde.fr/m-styles/article/2014/12/14/la-maison-connectee-de-jacques-tati-a-big-brother_4540325_4497319.html)
+
+[La maison high tech de 1958 par Tati](http://www.world-of-design.info/design-objets-hightech-informatique/la-maison-high-tech-de-1958-par-tati)
+
 À vous de trouver quelques références qui vous semblent pertinentes/intéressantes dans le domaine.
 
 ---
