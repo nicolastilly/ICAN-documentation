@@ -130,3 +130,4 @@ Pour la conception (éventuelle) d'une application avec [Bootstrap](https://getb
 
 [L'app Raccourci sur iOS](https://support.apple.com/fr-fr/guide/shortcuts/welcome/ios)
 
+[Présentation vidéo 3D (intérieur/objet...) avec Blender](https://www.youtube.com/user/AndrewPPrice/videos)
