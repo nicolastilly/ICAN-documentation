@@ -102,7 +102,11 @@ Liste des devices possibles :
 - électroménager
 - ...
 
-Pour la conception (éventuelle) d'une application :
+---
+
+### Prototypage
+
+Pour la conception (éventuelle) d'une application avec [Bootstrap](https://getbootstrap.com/docs/3.3/components/) :
 
 **Components :**
 
@@ -119,3 +123,10 @@ Pour la conception (éventuelle) d'une application :
 - Search bar
 - Modal
 - Forms
+
+[IFTTT](https://platform.ifttt.com/case_studies/Partner-case-study-Smarter)
+
+[Domotique sur Pinterest](https://www.pinterest.fr/JoTRTDIY/domotique/)
+
+[L'app Raccourci sur iOS](https://support.apple.com/fr-fr/guide/shortcuts/welcome/ios)
+
