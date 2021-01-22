@@ -40,6 +40,8 @@ Quelques autres références :
 
 [Hackaday.io](https://hackaday.io/projects?tag=home%20automation)
 
+[Domotique sur Pinterest](https://www.pinterest.fr/JoTRTDIY/domotique/)
+
 [Zelda Ocarina Controlled Home Automation](https://www.youtube.com/watch?v=glZnkpIDWSE)
 
 [Jarvis](https://www.facebook.com/zuck/videos/10103351034741311/)
@@ -125,8 +127,6 @@ Pour la conception (éventuelle) d'une application avec [Bootstrap](https://getb
 - Forms
 
 [IFTTT](https://platform.ifttt.com/case_studies/Partner-case-study-Smarter)
-
-[Domotique sur Pinterest](https://www.pinterest.fr/JoTRTDIY/domotique/)
 
 [L'app Raccourci sur iOS](https://support.apple.com/fr-fr/guide/shortcuts/welcome/ios)
 
