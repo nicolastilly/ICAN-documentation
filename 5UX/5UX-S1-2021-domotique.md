@@ -104,7 +104,7 @@ Liste des devices possibles :
 
 ---
 
-### Prototypage
+## Prototypage
 
 Pour la conception (éventuelle) d'une application avec [Bootstrap](https://getbootstrap.com/docs/3.3/components/) :
 
