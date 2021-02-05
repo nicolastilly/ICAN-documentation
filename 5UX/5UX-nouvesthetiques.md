@@ -11,7 +11,7 @@ Planning :
 
 ---
 
-## Sculptures de données
+## Sculpture de données
 
 ![](../images/Nouvelle-esthetiques.jpg)
 
