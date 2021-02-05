@@ -15,4 +15,4 @@ Planning :
 
 ![](../images/Nouvelle-esthetiques.jpg)
 
-Présentation des projets de l'artiste Nathalie Miebach (visualisation de données, sculpture et dessin) et de l'architecte François Roche (maquettes).
+Présentation des projets de l'artiste Nathalie Miebach (visualisation de données, sculpture et dessin) et de l'architecte François Roche (maquettes, simulation 3D).
