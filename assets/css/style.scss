@@ -1,7 +1,4 @@
----
---- 
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 
 
 @font-face {
@@ -20,8 +17,8 @@ html {
 
 body {
     font-family: "SpaceGrotesk Regular";
-    color: #222222;
-    background-color: transparent;
+    color: #f9f9f9;
+    background-color: #1f1f1f;
 }
 
 p {
